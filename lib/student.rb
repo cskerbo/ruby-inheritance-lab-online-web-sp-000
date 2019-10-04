@@ -3,7 +3,7 @@ require_relative './user.rb'
 class Student
 
   def initialize
-    KNOWLEDGE = []
+    @KNOWLEDGE = []
   end
 
 end
